@@ -1,2 +1,2 @@
 # RepairCafe
-Group work for ENSE271
+We are Team H working on to rebuild the website- EnviroCollective.
