@@ -39,11 +39,11 @@ Directory
 
 We document our progress every week to maintain transparency, track decisions, and showcase the evolution of the redesign.
 
-Week 01 - Project setup, initial research, Site Map, USM, Empathy Mapping, Affinity Diagrams, and Low Fidelity Prototypes
+[Week 01](Week1) - Project setup, initial research, Site Map, USM, Empathy Mapping, Affinity Diagrams, and Low Fidelity Prototypes
 
-Week 02 - High Fidelity Prototype, customer notes and comments, updated USM
+[Week 02](Week2) - High Fidelity Prototype, customer notes and comments, updated USM
 
-Week 03 - Website building using Wordpress, customer evaluation
+[Week 03](Week3) - Website building using Wordpress, customer evaluation
 
 Week 04 - Final product showcase and review.
 
