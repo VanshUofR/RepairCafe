@@ -45,7 +45,7 @@ We document our progress every week to maintain transparency, track decisions, a
 
 [Week 03](Week3) - Website building using Wordpress, customer evaluation
 
-Week 04 - Final product showcase and review.
+[Week 04](Week4) - Final product showcase and review.
 
 
 ## 🛠️ Tools & Technologies
