@@ -6,9 +6,9 @@
 
 <p align="center">
   <a href="https://www.envirocollective.ca/">Live Website</a> ·
-  <a href="design/">Design & Prototypes</a> ·
+  <a href="https://www.figma.com/design/DKVwowMqLdmZCGrPBLM1MM/HFP-envirocollective?node-id=0-1&p=f&t=SAqw1fZR4DrPp1Fx-0">Design & Prototypes</a> ·
   <a href="progress/">Weekly Progress</a> ·
-  <a href="docs/">Documentation</a>
+  <a href="Week3/Project Status Report.docx">Documentation</a>
 </p>
 
 ---
