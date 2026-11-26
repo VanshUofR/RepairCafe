@@ -1,7 +1,7 @@
 # 🌿 EnviroCollective Regina - Website Redesign
 
 <p align="center">
-  <strong>Building a more accessible, engaging, and user-friendly digital home for local climate action.</strong>
+  <strong>Hands on learning by developing a website as a class project</strong>
 </p>
 
 <p align="center">
