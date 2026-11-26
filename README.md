@@ -67,5 +67,5 @@ We aim to create a digital experience that reflects EnviroCollective's community
 ----------------------------------------------------------------------------------
 
 <p align="center">
-  <em>Small changes, shared efforts, and a stronger community for a sustainable future.</em>
+  <em>New Experience, Teamwork, and Competitive environment.</em>
 </p>
