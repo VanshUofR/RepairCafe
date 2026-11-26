@@ -4,7 +4,7 @@ This folder contains our team's project research, customer insights, design expl
 
 ## 📂 Folder Contents
 
-- **📄 [Project Overview:](Week1/Project Overview.pdf)** Team members, project background, business needs, customers, assumptions, and constraints.
+- **📄 [Project Overview:]** (Week1/Project Overview.pdf) Team members, project background, business needs, customers, assumptions, and constraints.
 - **🤝 Empathy Mapping:** Understanding customer perspectives, behaviours, and needs.
 - **🧠 Affinity Diagramming:** Organized research findings and common themes.
 - **💡 Insights & Needs:** Identified user needs, supporting examples, and rationale.
